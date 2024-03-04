@@ -1,0 +1,11 @@
+streamlit
+undetected-chromedriver
+chromedriver
+seleniumbase
+cffi==1.15.1
+beautifulsoup4==4.12.2
+pandas==1.1.3
+webdriver-manager
+matplotlib
+plotly
+selenium==4.9.1  # because service_log_path has been deprecated in 4.10.0
